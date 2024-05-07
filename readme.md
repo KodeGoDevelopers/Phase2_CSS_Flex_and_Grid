@@ -10,7 +10,7 @@ Recreate the webpage as shown in the preview image [preview.png](./preview.png).
 
 ## Repository
 
-[https://github.com/EmersonCana/flex-and-grid-lab-exercise/tree/main](https://github.com/EmersonCana/flex-and-grid-lab-exercise/tree/main)
+[https://github.com/KodeGoDevelopers/Phase2_CSS_Flex_and_Grid](https://github.com/KodeGoDevelopers/Phase2_CSS_Flex_and_Grid)
 
 ## Requirements
 
